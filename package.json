@@ -1,0 +1,22 @@
+{
+  "name": "steam-dedicated-server",
+  "version": "0.0.1",
+  "description": "IaC and code to configure a dedicated server for games in Steam. The general plan is:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/colwynmyself/steam-dedicated-server.git"
+  },
+  "author": "Colwyn Fritze-Moor <colwyn@colwyn.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colwynmyself/steam-dedicated-server/issues"
+  },
+  "homepage": "https://github.com/colwynmyself/steam-dedicated-server#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
