@@ -11,4 +11,3 @@ IaC and code to configure a dedicated server for games in Steam. The general pla
 * Run the game on ECS. Basically every server I've seen has a Dockerfile somewhere
 * Backup saves to S3
 * Use an NLB to get a hostname. Maybe include CloudFlare DNS?
-
